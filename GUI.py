@@ -13,6 +13,11 @@ def km_to_miles():
     #t1.insert(END,e1_value.get() # 'END' help to append the text without overwriting
     t1.insert(END,miles)
     
+    
+def km_to_miles(): 
+    input=input("enter number")
+    result=input*3
+    
 
 
 

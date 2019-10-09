@@ -16,7 +16,10 @@ def km_to_miles():
     
 def km_to_miles(): 
     input=input("enter number")
-    result=input*3
+    result=input*30
+    
+    
+def m_to_km():    
     
 
 

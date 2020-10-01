@@ -1,9 +1,9 @@
 from tkinter import *
 """
-1.there are basically two main things
-1.1. window (that is actully what we see on our desktop)
-1.2. widgets(this buttons..)
-2. we  write everything inside window and mainloop()
+there are basically two main things
+window (that is actully what we see on our desktop)
+widgets(this buttons..)
+we  write everything inside window and mainloop()
 """
 
 def km_to_miles():
